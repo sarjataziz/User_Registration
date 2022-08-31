@@ -16,6 +16,5 @@ namespace User_Registration_Exercise_1
         public string DateOfBirth { get; set; }
         public string Gender { get; set; }
         public string BloodGroup { get; set; }
-
     }
 }
