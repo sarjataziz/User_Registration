@@ -25,7 +25,6 @@ namespace User_Registration_Exercise_1
         }
         private void userLisDataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
         }
 
         private void UserList_Load(object sender, EventArgs e)
