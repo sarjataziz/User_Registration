@@ -28,7 +28,6 @@ namespace User_Registration_Exercise_1
 
         private void groupBox1_Enter(object sender, EventArgs e)
         {
-
         }
 
         private void submitButton1_Click(object sender, EventArgs e)
