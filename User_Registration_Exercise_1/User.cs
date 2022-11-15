@@ -18,3 +18,4 @@ namespace User_Registration_Exercise_1
         public string BloodGroup { get; set; }
     }
 }
+
